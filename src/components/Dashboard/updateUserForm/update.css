@@ -1,0 +1,70 @@
+.update {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+
+}
+
+
+.update .img-update{
+    /* border: 1px solid red; */
+    width: 30%;
+}
+
+.update .info-update{
+    /* border: 1px solid green; */
+    width: 60%;
+
+}
+
+
+.info-update .form{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+} 
+
+.info-update .form div{
+    width: 40%;
+}
+
+
+.info-update label{
+    font-size: 1.3rem;
+    margin-top: 1rem;
+}
+
+.info-update form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info-update .form-control{
+    /* width: 70%; */
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+.info-update .form-select{
+    /* width: 70%; */
+    width: 20%;
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+
+.update-btn{
+    
+    width: 150px;
+    height: 50px;
+    order: 1;
+    display: block;
+    /* font-size: 1rem; */
+    /* padding: 1rem; */
+    
+    margin-top: 2rem;
+}

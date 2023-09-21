@@ -1,0 +1,42 @@
+.userevents{
+    font-size: 1.2rem;
+    /* border: 2px solid black; */
+    color: gray;
+}
+
+.userevents .table{
+    margin-top: 2rem;
+    width: 100%;
+    /* margin-left: 2rem; */
+}
+
+.userevents .form-label{
+    font-size: 1.3rem;
+    margin-top: 2rem;
+}
+.userevents .form-control{
+    /* width: 70%; */
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+.userevents .form-select{
+    /* width: 70%; */
+    width: 20%;
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+
+
+
+.userevents .btn{
+    font-size: 1rem;
+    margin: 0.5rem;
+    width: 8rem;
+
+
+}
+
+
+

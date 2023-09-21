@@ -1,0 +1,22 @@
+
+
+.SignupForm .form-label{
+    font-size: 1.4rem;
+    /* margin-top: 2rem; */
+}
+.SignupForm .form-control{
+    /* width: 70%; */
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+
+
+.SignupForm .btn{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    width: 10rem;
+
+
+}
+

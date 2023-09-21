@@ -1,0 +1,34 @@
+.eventForm{
+    /* border: 2px solid black; */
+    color: rgb(131, 130, 130);
+    /* border: 2px solid black; */
+    width: 100%;
+}
+
+
+.eventForm .form-label{
+    font-size: 1.3rem;
+    margin-top: 2rem;
+}
+.eventForm .form-control{
+    /* width: 70%; */
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+.eventForm .form-select{
+    /* width: 70%; */
+    height: 3rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+
+
+
+.eventForm .btn{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    width: 10rem;
+
+
+}

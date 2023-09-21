@@ -1,0 +1,67 @@
+.LoginForm .container{
+    width: 90%;
+    height: 70vh;
+    /* border: 2px solid pink; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding: 5rem; */
+    margin-top: 5rem;
+}
+
+.LoginForm .loginImg{
+    width: 45%;
+    /* border: 2px solid black; */
+}
+
+.LoginForm .loginform{
+    width: 45%;
+    /* border: 2px solid rebeccapurple; */
+}
+
+.LoginForm .signInwith{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 70%;
+    margin-bottom: 2rem;
+}
+
+.LoginForm .signInwith i {
+    font-size: 2rem;
+    /* margin-bottom: 1rem; */
+}
+
+.LoginForm .form-label{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.LoginForm .form-control{
+    width: 70%;
+    height: 4rem;
+    border: 2px solid lightgray;
+    font-size: 1.5rem;
+}
+
+
+.LoginForm .btn{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    width: 10rem;
+
+
+}
+
+.LoginForm .register{
+    display: flex;
+    margin: 2rem auto;
+    align-items: center;
+    vertical-align: middle;
+}
+.LoginForm .register .link{
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: red;
+    margin-left: 0.4rem;
+
+}

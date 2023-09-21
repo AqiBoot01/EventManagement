@@ -1,0 +1,63 @@
+.userDashboard .main-div{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    margin-top: 6rem;
+    height: 90vh;
+    width: 100%;
+}
+
+
+.userDashboard .user-info{
+    /* border: 2px solid pink; */
+    height: 70%;
+
+
+}
+
+.user-info .user-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* Custom cursor style for the Bootstrap icon */
+.bootstrap-icon:hover {
+    cursor: pointer; /* You can use 'pointer' or any other cursor value you prefer */
+  }
+  
+
+.userDashboard .container-nav{
+    width: 18%;
+    border-right: 1px solid lightgray;
+    background-color: rgba(128, 128, 128, 0.256);
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    font-size: 1.5rem;
+    margin-right: 2rem;
+    /* margin: 0px 2rem; */
+    /* padding: 1.3rem 0.8rem; */
+}
+
+.userDashboard .container-nav div{
+    /* margin-bottom: 2rem; */
+    cursor: pointer;
+    padding:1rem;
+    /* border-bottom: 1px solid rgb(148, 146, 146); */
+}
+
+.userDashboard .container-nav div:hover{
+    background-color: rgba(128, 128, 128, 0.502);
+}
+
+
+
+
+
+
+
